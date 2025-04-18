@@ -18,6 +18,21 @@ It allows users to enter a password and get an instant strength evaluation based
 
 ---
 
+## Screenshots
+
+### App Home
+![Home](screenshot1.png)
+
+### Password Strength Check
+![Strength](screenshot2.png)
+
+### Password Generator
+![Generator](screenshot3.png)
+
+### History Popup
+![History](screenshot4.png)
+
+
 ## How to Run
 
 1. Make sure you have **Python 3.x** installed.
