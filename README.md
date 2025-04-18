@@ -21,16 +21,16 @@ It allows users to enter a password and get an instant strength evaluation based
 ## Screenshots
 
 ### App Home
-![Home](screenshot -1.PNG)
+![Home](screenshot1.PNG)
 
 ### Password Strength Check
-![Strength](screenshot -2.PNG)
+![Strength](screenshot2.PNG)
  
 ### Password Generator
-![Generator](screenshot -3.PNG)
+![Generator](screenshot3.PNG)
 
 ### History Popup
-![History](screenshot -4.PNG)
+![History](screenshot4.PNG)
 
 
 ## How to Run
